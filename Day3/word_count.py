@@ -1,0 +1,5 @@
+sentence=input("Enter a sentence:")
+words=len(sentence.split())
+characters=len(sentence)
+print("Words:",words)
+print("Characters:",characters)
