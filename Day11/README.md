@@ -1,4 +1,4 @@
-# Day 
+# Day 11
 
 ## What it does
 - Stores 8 products using a list of dictionaries.
