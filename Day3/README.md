@@ -5,4 +5,3 @@
     3. word_count.py:Count words and characters in a sentence
     # How to run
         Open the python files in VS code and click Python file.
-

@@ -1,28 +1,28 @@
 while True:
-    score=0
-    print("PYTHON QUIZ GAME")
-    print("***Welcome to the python Quiz***")
-    print("Q1. What is Python")
-    print("a.  Programming Language")
-    print("b.  Browser")
-    print("c.  Database")
-    print("d.  Operating System")
-    ch=input("Enter your Chioce")
-    if(ch=="a"):
+ score=0
+ print("PYTHON QUIZ GAME")
+ print("***Welcome to the python Quiz***")
+print("Q1. What is Python")  
+print("a.  Programming Language")
+print("b.  Browser")
+print("c.  Database")
+print("d.  Operating System")
+ch=input("Enter your Chioce")
+if(ch=="a"):
         score+=1
 
-    print("Q2. What is the extension of a Python file")
-    print("a.  .html")
-    print("b.  .py")
-    print("c.  .css")
-    print("d.  .java")
-    ch=input("Enter your Chioce")
-    if(ch=="b"):
+print("Q2. What is the extension of a Python file")
+print("a.  .html")
+print("b.  .py")
+print("c.  .css")
+print("d.  .java")
+ch=input("Enter your Chioce")
+if(ch=="b"):
             score+=1   
 
-    print("Q3. Which function is used to display output?")
-    print("a.  input()")
-    print("b.  show()")
+print("Q3. Which function is used to display output?")
+print("a.  input()")
+print("b.  show()")
     print("c.  print()")
     print("d.  display")
     ch=input("Enter your Chioce")
