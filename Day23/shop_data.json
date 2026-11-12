@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "name": "Headphones",
+            "price": 500,
+            "stock": 4
+        },
+        {
+            "name": "Bag",
+            "price": 800,
+            "stock": 2
+        }
+    ],
+    "customer": {
+        "name": "Pari",
+        "email": "pari@gmail.com",
+        "cart": []
+    }
+}
