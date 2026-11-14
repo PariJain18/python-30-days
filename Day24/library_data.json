@@ -1,0 +1,37 @@
+{
+    "books": [
+        {
+            "book_id": 1,
+            "title": "Python Basics",
+            "author": "John",
+            "is_borrowed": false
+        },
+        {
+            "book_id": 2,
+            "title": "Java Programming",
+            "author": "James",
+            "is_borrowed": true
+        },
+        {
+            "book_id": 3,
+            "title": "HTML Guide",
+            "author": "David",
+            "is_borrowed": false
+        },
+        {
+            "book_id": 4,
+            "title": "CSS Basics",
+            "author": "Alex",
+            "is_borrowed": false
+        }
+    ],
+    "members": [
+        {
+            "member_id": 101,
+            "name": "Pari",
+            "borrowed_books": [
+                2
+            ]
+        }
+    ]
+}
